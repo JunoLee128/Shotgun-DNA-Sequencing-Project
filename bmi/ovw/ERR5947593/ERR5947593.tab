@@ -1,0 +1,226 @@
+
+>>>>>> Kingdom <<<<<<
+[Taxon Name]	[Core Gene Reads]	[Abundance]	[Taxonomy]
+Bacteria	428473	100.00000000000003	
+
+>>>>>> Phylum <<<<<<
+[Taxon Name]	[Core Gene Reads]	[Abundance]	[Taxonomy]
+Bacteroidetes	257886	59.25212871477534	Bacteria;
+Firmicutes	141232	34.10293278604306	Bacteria;
+Actinobacteria	15303	3.397045750733367	Bacteria;
+Proteobacteria	9700	2.241259990969262	Bacteria;
+Verrucomicrobia	3975	0.9122025077138466	Bacteria;
+Fusobacteria	377	0.09443024976515621	Bacteria;
+
+>>>>>> Class <<<<<<
+[Taxon Name]	[Core Gene Reads]	[Abundance]	[Taxonomy]
+Bacteroidia	257886	59.25212871477534	Bacteria;Bacteroidetes;
+Clostridia	122437	29.579556818112493	Bacteria;Firmicutes;
+Erysipelotrichia	13944	3.3630225406612295	Bacteria;Firmicutes;
+Actinomycetia	10894	2.4075769321583516	Bacteria;Actinobacteria;
+Deltaproteobacteria	7784	1.8016107215999524	Bacteria;Proteobacteria;
+Coriobacteriia	4409	0.9894688185750156	Bacteria;Actinobacteria;
+Verrucomicrobiae	3975	0.9122025077138466	Bacteria;Verrucomicrobia;
+Negativicutes	2976	0.7008317830710313	Bacteria;Firmicutes;
+Betaproteobacteria	1916	0.4396492693693096	Bacteria;Proteobacteria;
+Tissierellia	945	0.23742467312949922	Bacteria;Firmicutes;
+Bacilli	930	0.22209697106881193	Bacteria;Firmicutes;
+Fusobacteriia	377	0.09443024976515621	Bacteria;Fusobacteria;
+
+>>>>>> Order <<<<<<
+[Taxon Name]	[Core Gene Reads]	[Abundance]	[Taxonomy]
+Bacteroidales	257886	59.25212871477534	Bacteria;Bacteroidetes;Bacteroidia;
+Clostridiales	122437	29.579556818112493	Bacteria;Firmicutes;Clostridia;
+Erysipelotrichales	13944	3.3630225406612295	Bacteria;Firmicutes;Erysipelotrichia;
+Bifidobacteriales	10894	2.4075769321583516	Bacteria;Actinobacteria;Actinomycetia;
+Desulfovibrionales	7784	1.8016107215999524	Bacteria;Proteobacteria;Deltaproteobacteria;
+Verrucomicrobiales	3975	0.9122025077138466	Bacteria;Verrucomicrobia;Verrucomicrobiae;
+Veillonellales	2976	0.7008317830710313	Bacteria;Firmicutes;Negativicutes;
+Eggerthellales	2670	0.5971919495019333	Bacteria;Actinobacteria;Coriobacteriia;
+Burkholderiales	1916	0.4396492693693096	Bacteria;Proteobacteria;Betaproteobacteria;
+Coriobacteriales	1739	0.3922768690730822	Bacteria;Actinobacteria;Coriobacteriia;
+Tissierellales	945	0.23742467312949922	Bacteria;Firmicutes;Tissierellia;
+Lactobacillales	930	0.22209697106881193	Bacteria;Firmicutes;Bacilli;
+Fusobacteriales	377	0.09443024976515621	Bacteria;Fusobacteria;Fusobacteriia;
+
+>>>>>> Family <<<<<<
+[Taxon Name]	[Core Gene Reads]	[Abundance]	[Taxonomy]
+Bacteroidaceae	129354	29.60277383021056	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;
+Prevotellaceae	75299	17.274487117734154	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;
+Lachnospiraceae	63232	15.208185251690592	Bacteria;Firmicutes;Clostridia;Clostridiales;
+Oscillospiraceae	59205	14.37137156642189	Bacteria;Firmicutes;Clostridia;Clostridiales;
+Rikenellaceae	26254	6.183013559793817	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;
+Erysipelotrichaceae	13944	3.3630225406612295	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;
+Porphyromonadaceae	11829	2.7018321159415453	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;
+Bifidobacteriaceae	10894	2.4075769321583516	Bacteria;Actinobacteria;Actinomycetia;Bifidobacteriales;
+Barnesiellaceae	9499	2.1791825531262163	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;
+Desulfovibrionaceae	7784	1.8016107215999524	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;
+Odoribacteraceae	5651	1.3108395379690414	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;
+Akkermansiaceae	3975	0.9122025077138466	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;
+Veillonellaceae	2976	0.7008317830710313	Bacteria;Firmicutes;Negativicutes;Veillonellales;
+Eggerthellaceae	2670	0.5971919495019333	Bacteria;Actinobacteria;Coriobacteriia;Eggerthellales;
+Sutterellaceae	1916	0.4396492693693096	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;
+Coriobacteriaceae	1739	0.3922768690730822	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;
+Peptoniphilaceae	945	0.23742467312949922	Bacteria;Firmicutes;Tissierellia;Tissierellales;
+Lactobacillaceae	930	0.22209697106881193	Bacteria;Firmicutes;Bacilli;Lactobacillales;
+Leptotrichiaceae	377	0.09443024976515621	Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;
+
+>>>>>> Genus <<<<<<
+[Taxon Name]	[Core Gene Reads]	[Abundance]	[Taxonomy]
+Bacteroides	129354	29.60277383021056	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;
+Prevotella	69795	16.01452523281073	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;
+Faecalibacterium	32919	8.05588283102317	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;
+Alistipes	26254	6.183013559793817	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;
+Agathobacter	21490	5.179855617944489	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Holdemanella	12549	3.0237064730290557	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;
+Ruminococcus_g2	11284	2.7210739332176033	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;
+Parabacteroides	10913	2.4902463746116457	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;
+Mediterraneibacter	10791	2.627768667231887	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Bifidobacterium	10206	2.2585144658747613	Bacteria;Actinobacteria;Actinomycetia;Bifidobacteriales;Bifidobacteriaceae;
+Barnesiella	8936	2.0499996276702315	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;
+Blautia	8079	1.9335255478236772	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Subdoligranulum	6657	1.5907535152163226	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;
+Lachnospira	6046	1.4338560120227417	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Paraprevotella	5504	1.2599618849234235	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;
+Desulfovibrio	4943	1.1347906139933401	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;
+Fusicatenibacter	4396	1.0466224602468572	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Dorea	3995	0.9509716057062516	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Akkermansia	3975	0.9122025077138466	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;
+Ruminococcus	3394	0.8103115874790654	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;
+Butyricimonas	3389	0.7869486636173532	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Odoribacteraceae;
+Dialister	2976	0.7008317830710313	Bacteria;Firmicutes;Negativicutes;Veillonellales;Veillonellaceae;
+Bilophila	2841	0.6668201076066124	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;
+Slackia	2670	0.5971919495019333	Bacteria;Actinobacteria;Coriobacteriia;Eggerthellales;Eggerthellaceae;
+Odoribacter	2262	0.5238908743516882	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Odoribacteraceae;
+Anaerobutyricum	2127	0.5060999745573332	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Anaerostipes	1891	0.454426006089408	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Collinsella	1739	0.3922768690730822	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;
+Oscillibacter	1502	0.36192244195972867	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;
+Eubacterium_g23	1408	0.33405562929373134	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;
+Sutterella	1207	0.2758396353793914	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Sutterellaceae;
+Enterocloster	1194	0.2823910490238506	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Faecalibacillus	1106	0.2694189933520998	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;
+Agathobaculum	1047	0.25693068942242775	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;
+Lactobacillus	930	0.22209697106881193	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;
+Porphyromonas	916	0.21158574132989966	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;
+Eubacterium_g21	794	0.188136527600987	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Coprococcus_g2	789	0.21216056111512893	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Fenollaria	724	0.1827104538598444	Bacteria;Firmicutes;Tissierellia;Tissierellales;Peptoniphilaceae;
+Gardnerella	688	0.14906246628359	Bacteria;Actinobacteria;Actinomycetia;Bifidobacteriales;Bifidobacteriaceae;
+Pseudoflavonifractor	577	0.1372386877724079	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;
+Coprobacter	563	0.12918292545598492	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;
+Eubacterium_g4	485	0.1196178465611348	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Roseburia	460	0.1084482733075557	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Parasutterella	437	0.10125536051925606	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Sutterellaceae;
+Ruthenibacterium	417	0.10320225103743323	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;
+Sneathia	377	0.09443024976515621	Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;
+Eisenbergiella	361	0.08491802956206576	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+QUDV_g	334	0.07938707289722349	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;
+Holdemania	289	0.06989707428007431	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;
+Mesosutterella	272	0.06255427347066214	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Sutterellaceae;
+Parvimonas	221	0.0547142192696548	Bacteria;Firmicutes;Tissierellia;Tissierellales;Peptoniphilaceae;
+
+>>>>>> Species <<<<<<
+[Taxon Name]	[Core Gene Reads]	[Abundance]	[Taxonomy]
+Prevotella rara	66656	15.293008058806349	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;
+Bacteroides vulgatus	51834	11.828663144419899	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Bacteroides uniformis	27153	6.192930249179283	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Agathobacter rectalis	21490	5.179855617944489	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Agathobacter;
+Bacteroides dorei	15637	3.5675862173067294	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Alistipes putredinis	14296	3.3292387551256466	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;
+Holdemanella QSKE_s	12549	3.0237064730290557	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Holdemanella;
+Bacteroides eggerthii	12728	2.899704884201298	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Ruminococcus bromii	11284	2.7210739332176033	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Ruminococcus_g2;
+Barnesiella intestinihominis	8936	2.0499996276702315	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella;
+Faecalibacterium GG697149_s	8054	2.0142989989759013	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Faecalibacterium;
+Ruminococcus lactaris	8154	1.932138030336675	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Mediterraneibacter;
+Faecalibacterium PRLC_s	6928	1.68640293161568	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Faecalibacterium;
+Parabacteroides merdae	7167	1.633060553689713	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Parabacteroides;
+Faecalibacterium GL538271_s	6572	1.5978415085538238	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Faecalibacterium;
+Alistipes shahii	6321	1.5479270374330982	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;
+Gemmiger formicilis	5523	1.3187880050801863	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Subdoligranulum;
+Faecalibacterium prausnitzii	5309	1.2831769905048953	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Faecalibacterium;
+Paraprevotella clara	5504	1.2599618849234235	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Paraprevotella;
+Bacteroides rodentium	4444	1.1198709584881408	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Faecalibacterium FP929045_s	4388	1.0683822721142424	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Faecalibacterium;
+Fusicatenibacter saccharivorans	4396	1.0466224602468572	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Fusicatenibacter;
+Bacteroides caccae	4136	0.9407549766185199	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Bacteroides stercoris	4117	0.9378464862496084	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Bacteroides faecis	4032	0.9167692941960905	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Akkermansia muciniphila	3975	0.9122025077138466	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia;
+Parabacteroides distasonis	3746	0.8571858209219327	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Parabacteroides;
+Desulfovibrio piger	3694	0.8508385083258088	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;
+Bifidobacterium adolescentis	3690	0.8258115026641764	Bacteria;Actinobacteria;Actinomycetia;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;
+Ruminococcus bicirculans	3394	0.8103115874790654	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Ruminococcus;
+Bifidobacterium faecale	3485	0.7721190726094392	Bacteria;Actinobacteria;Actinomycetia;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;
+Blautia massiliensis	3199	0.7712335988845939	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;
+Dorea longicatena	3145	0.7498062620095384	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea;
+Bilophila wadsworthia	2841	0.6668201076066124	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Bilophila;
+Prevotella timonensis	2840	0.6524055417044308	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;
+Butyricimonas faecihominis	2710	0.6289086008373758	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Odoribacteraceae;Butyricimonas;
+Dialister succinatiphilus	2596	0.6104709513532055	Bacteria;Firmicutes;Negativicutes;Veillonellales;Veillonellaceae;Dialister;
+Alistipes dispar	2629	0.6101721420076784	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;
+Slackia isoflavoniconvertens	2670	0.5971919495019333	Bacteria;Actinobacteria;Coriobacteriia;Eggerthellales;Eggerthellaceae;Slackia;
+Alistipes finegoldii	2324	0.5361402396311422	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;
+Odoribacter splanchnicus	2262	0.5238908743516882	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Odoribacteraceae;Odoribacter;
+Bacteroides ovatus	1966	0.44657728486432985	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Bacteroides xylanisolvens	1939	0.4414406443932645	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Mediterraneibacter faecis	1574	0.44130942913733295	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Mediterraneibacter;
+Lachnospira CZBV_s	1783	0.42118435032695745	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;
+Faecalibacterium PRLE_s	1668	0.4057801292586293	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Faecalibacterium;
+Blautia wexlerae	1709	0.40564969430268843	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;
+Anaerobutyricum hallii	1674	0.3983360664622253	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerobutyricum;
+Oscillibacter JPJG_s	1502	0.36192244195972867	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Oscillibacter;
+Lachnospira QSEU_s	1423	0.34363783882425003	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;
+Bifidobacterium longum subsp. longum	1558	0.33776793695301593	Bacteria;Actinobacteria;Actinomycetia;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium longum;
+Eubacterium coprostanoligenes	1408	0.33405562929373134	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Eubacterium_g23;
+Bacteroides NQMG_s	1368	0.3106296902933954	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+Eubacterium eligens	1295	0.30546103209376163	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;
+Desulfovibrio LT630450_s	1249	0.2839521056675314	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;
+Sutterella wadsworthensis	1207	0.2758396353793914	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Sutterellaceae;Sutterella;
+Subdoligranulum variabile	1134	0.27196551013613623	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Subdoligranulum;
+Agathobaculum QUIJ_s	1047	0.25693068942242775	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Agathobaculum;
+Bifidobacterium angulatum	1133	0.24991339455646003	Bacteria;Actinobacteria;Actinomycetia;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;
+Anaerostipes hadrus	1017	0.2443951603347054	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;
+Lactobacillus acidophilus	930	0.22209697106881193	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;
+Coprococcus comes	789	0.21216056111512893	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus_g2;
+Porphyromonas ACLR_s	916	0.21158574132989966	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas;
+Anaerostipes CYYH_s	874	0.21003084575470257	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;
+Dorea formicigenerans	850	0.2011653436967133	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea;
+Collinsella KN214134_s	887	0.19961465222578517	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;
+Collinsella aerofaciens	852	0.192662216847297	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;
+Lachnospira multipara	806	0.18967891253837205	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;
+Eubacterium ramulus	794	0.188136527600987	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Eubacterium_g21;
+Fenollaria massiliensis	724	0.1827104538598444	Bacteria;Firmicutes;Tissierellia;Tissierellales;Peptoniphilaceae;Fenollaria;
+Blautia brookingsii	738	0.1755082779174012	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;
+Lachnospira FNHZ_s	739	0.17389387823940053	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;
+Alistipes communis	684	0.1595353855962519	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;
+Blautia stercoris	668	0.15893191349114183	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;
+Butyricimonas NFHW_s	679	0.15804006277997737	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Odoribacteraceae;Butyricimonas;
+Gardnerella swidsinskii	688	0.14906246628359	Bacteria;Actinobacteria;Actinomycetia;Bifidobacteriales;Bifidobacteriaceae;Gardnerella;
+Enterocloster FCEY_s	617	0.14570949985359588	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Enterocloster;
+Flavonifractor plautii	577	0.1372386877724079	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Pseudoflavonifractor;
+Enterocloster QUKS_s	577	0.13668154917025474	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Enterocloster;
+Faecalibacillus faecis	561	0.13665355298816512	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalibacillus;
+Blautia QTYB_s	559	0.13318094605634778	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;
+Faecalibacillus intestinalis	545	0.13276544036393467	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalibacillus;
+Coprobacter secundus	563	0.12918292545598492	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Coprobacter;
+Mediterraneibacter QUII_s	537	0.12758925842463895	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Mediterraneibacter;
+Ruminococcus torques	526	0.12673194933324022	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Mediterraneibacter;
+Eubacterium ventriosum	485	0.1196178465611348	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Eubacterium_g4;
+Roseburia intestinalis	460	0.1084482733075557	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;
+Anaerobutyricum LT907848_s	453	0.10776390809510798	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerobutyricum;
+Blautia faecis	440	0.10399795449123955	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;
+Ruthenibacterium lactatiformans	417	0.10320225103743323	Bacteria;Firmicutes;Clostridia;Clostridiales;Oscillospiraceae;Ruthenibacterium;
+Parasutterella excrementihominis	437	0.10125536051925606	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Sutterellaceae;Parasutterella;
+Sneathia amnii	377	0.09443024976515621	Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;Sneathia;
+Blautia luti	394	0.09364181296792484	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;
+Blautia obeum	372	0.09138134971233984	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;
+Allisonella histaminiformans	380	0.09036083171782579	Bacteria;Firmicutes;Negativicutes;Veillonellales;Veillonellaceae;Dialister;
+Eisenbergiella QTXI_s	361	0.08491802956206576	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Eisenbergiella;
+QUDV_g QUDV_s	334	0.07938707289722349	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;QUDV_g;
+Bifidobacterium bifidum	340	0.07290255909166958	Bacteria;Actinobacteria;Actinomycetia;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;
+Holdemania LT635449_s	289	0.06989707428007431	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Holdemania;
+Prevotella bivia	299	0.06911163229995121	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;
+Mesosutterella multiformis	272	0.06255427347066214	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Sutterellaceae;Mesosutterella;
+Parvimonas KQ960143_s	221	0.0547142192696548	Bacteria;Firmicutes;Tissierellia;Tissierellales;Peptoniphilaceae;Parvimonas;
